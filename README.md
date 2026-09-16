@@ -4,6 +4,9 @@ A GPU raymarcher that scans a directory tree and renders it as a city — each
 top-level directory becomes a building, with its file listing rendered on the
 walls.
 
+![CyberCity screenshot](screenshots/CyberCity001.png)
+
+
 ## Running it
 
 There's no GUI for picking a directory yet, so after giving it executable status (chmod +x) 
