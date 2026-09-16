@@ -10,7 +10,7 @@ There's no GUI for picking a directory yet, so after giving it executable status
 you run this from a terminal / shell , passing the directory you want to visualize as an argument:
 
 ```
-cybercity /path/to/some/directory
+CyberCity /path/to/some/directory
 ```
 
 If you don't pass a directory, it'll prompt you for one interactively:
