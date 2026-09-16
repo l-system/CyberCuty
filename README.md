@@ -6,12 +6,11 @@ walls.
 
 ## Running it
 
-There's no GUI for picking a directory yet, so you run this from a terminal /
-shell (Command Prompt, PowerShell, or a Linux/macOS terminal), passing the
-directory you want to visualize as an argument:
+There's no GUI for picking a directory yet, so after giving it executable status (chmod +x) 
+you run this from a terminal / shell , passing the directory you want to visualize as an argument:
 
 ```
-CyberCity /path/to/some/directory
+cybercity /path/to/some/directory
 ```
 
 If you don't pass a directory, it'll prompt you for one interactively:
